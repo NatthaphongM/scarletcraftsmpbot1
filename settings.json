@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SCRLTCraft.aternos.me:24164",
+    "ip": "SCRLTCraft.aternos.me",
     "port": 24164,
     "version": "",
     "try-creative": false
